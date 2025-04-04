@@ -6,7 +6,7 @@ This project combines data collection and analysis to explore consumer demand in
 
 - `avito_parser.py` – A web scraper that collects product listings from Avito.
 - `demand_analysis.ipynb` – A notebook where demand is modeled based on price, income, and advertising variables.
-- `data.csv` – A dataset containing parsed listing information.
+- `ethno_jewelery.csv` – A dataset containing parsed listing information.
 
 ## 📈 Goal
 
