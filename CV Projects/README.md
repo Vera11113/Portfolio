@@ -9,9 +9,9 @@
   - Визуализация результатов
  
 Результат работы модели:
-![Sample prediction](res1.jpg)
-![Sample prediction](res2.jpg)
-![Sample prediction](res3.jpg)
+![Sample prediction](res1.jpeg)
+![Sample prediction](res2.jpeg)
+![Sample prediction](res3.jpeg)
 
 
 Матрица корреляция для тренировочной выборки
