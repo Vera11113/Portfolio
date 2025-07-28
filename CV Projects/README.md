@@ -9,3 +9,10 @@
   - Визуализация результатов
  
 Результат работы модели:
+![Sample prediction](res1.jpg)
+![Sample prediction](res2.jpg)
+![Sample prediction](res3.jpg)
+
+
+Матрица корреляция для тренировочной выборки
+![confusion_matrix](conf_mat.png)
